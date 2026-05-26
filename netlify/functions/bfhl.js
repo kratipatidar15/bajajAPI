@@ -60,7 +60,7 @@ const handlePost = (req, res) => {
 
         return res.json({
             is_success: true,
-            user_id: "krati_patidar_ddmmyyyy",
+            user_id: "krati_patidar_15042005",
             email: "kratipatidar230124@acropolis.in",
             roll_number: "0827CI231063",
             odd_numbers: odd_numbers,
